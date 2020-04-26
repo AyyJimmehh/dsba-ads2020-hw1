@@ -1,0 +1,3 @@
+C:/Users/Steve George Parakal/CLionProjects/HW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Steve George Parakal/CLionProjects/HW/cmake-build-debug/CMakeFiles/HW.dir
+C:/Users/Steve George Parakal/CLionProjects/HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
